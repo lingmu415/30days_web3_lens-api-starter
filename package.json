@@ -26,5 +26,17 @@
     "postcss": "^8.4.14",
     "prettier": "^2.7.1",
     "tailwindcss": "^3.1.8"
-  }
+  },
+  "description": "Dive into the tutorial here: https://www.30daysofweb3.xyz/en/curriculum/9-wrapping-up/0-intro-to-lens",
+  "main": "api.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lingmu415/30days_web3_lens-api-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lingmu415/30days_web3_lens-api-starter/issues"
+  },
+  "homepage": "https://github.com/lingmu415/30days_web3_lens-api-starter#readme"
 }
